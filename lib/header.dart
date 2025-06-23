@@ -28,7 +28,7 @@ class _HeaderState extends State<Header> {
                   SizedBox(height: 20),
                   Row(
                     children: [
-                      CircleAvatar(backgroundColor: Colors.white70, radius: 36),
+                      CircleAvatar(backgroundColor: Colors.white70, radius: 35),
                     ],
                   ),
                 ],
